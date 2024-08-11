@@ -15,7 +15,7 @@
 <p align="left">
 
 https://discord.gg/PXPCBYc36B
-  
+ 
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
