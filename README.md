@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=staticius&label=Profil%20Görüntülemeleri&color=0e75b6&style=flat&locale=tr" alt="staticius" /> </p>
 
-- 🔭 Devam eden projelerim **Minetron**
+- 🔭 Projects **Minetron**, **Wosy Anonym Chat (WAC)**
 
-- 🌱 Öğrenmeye devam ettiğim teknolojiler **Effective Java, Spring**
+- 🌱 Technologies I continue to learn **Spring**, GoLang, Kotlin
 
 <h3 align="left">Benimle iletişime geç:</h3>
 <p align="left">
