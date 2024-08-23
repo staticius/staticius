@@ -1,16 +1,11 @@
 <h1 align="center">👋 Staticius</h1>
 <h2 align="center">Backend Developer</h2>
 
-![images](https://github.com/user-attachments/assets/64fd3129-2793-4fa2-9521-a57ba3a6d513)
-
-
-
+![images](https://capsule-render.vercel.app/api?type=waving&height=300&color=282c34&text=a%20static%20dev&fontAlign=50&fontAlignY=50&animation=twinkling&stroke=df6d74&reversal=true&textBg=false&fontColor=c6a76e)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=staticius&label=Profil%20Görüntülemeleri&color=0e75b6&style=flat&locale=tr" alt="staticius" /> </p>
 
-- 🔭 Projects **Minetron**, **Wosy Anonym Chat (WAC)**
-
-- 🌱 Technologies I continue to learn **Spring**, GoLang, Kotlin
-
+- 🔭 Projects **Minetron**
+  
 <h3 align="left">Benimle iletişime geç:</h3>
 <p align="left">
 
