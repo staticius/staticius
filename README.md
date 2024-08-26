@@ -1,5 +1,5 @@
-<h1 align="center">👋 Staticius</h1>
-<h2 align="center">Backend Developer</h2>
+<h1 align="center">👁️‍🗨️ Staticius</h1>
+<h2 align="center">☕ Java Developer</h2>
 
 ![images](https://capsule-render.vercel.app/api?type=waving&height=300&color=282c34&text=a%20static%20dev&fontAlign=50&fontAlignY=50&animation=twinkling&stroke=df6d74&reversal=true&textBg=false&fontColor=c6a76e)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=staticius&label=Profil%20Görüntülemeleri&color=0e75b6&style=flat&locale=tr" alt="staticius" /> </p>
